@@ -1,9 +1,9 @@
-# Programm zum erzeugen von lustigen Namen
-# aus zwei Listen mit Vornamen und Nachnamen,
+# Programm zum erzeugen von lustigen Phrasen
+# aus drei Wortlisten
 # die zufällig miteinander kombiniert werden.
 
-# Erste Aufgabe aus dem Buch
-# "Impractical Python Projects"
+# Python-Umsetzung der "Phrasen-Dreschmaschine"
+# aus der Straelener Manuskripte Verlags-GmbH
 
 import sys, random
 
